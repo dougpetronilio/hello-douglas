@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "hello-douglas.gemspec",
     "lib/hello-douglas.rb",
     "spec/hello-douglas_spec.rb",
     "spec/spec_helper.rb"
